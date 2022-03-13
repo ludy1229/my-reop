@@ -1,6 +1,6 @@
 # my-reop
 abc
 efg
-12 revised test1branch
+12 revised by testbranch2 xx
 11
 
